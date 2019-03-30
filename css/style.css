@@ -81,8 +81,8 @@ img, video, audio {
 /*////// LAYOUT ////////*/
 
 * {
-  box-sizing: borde-box;
-  box-sizing: borde-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: borde-box;
   box-sizing: borde-box;
 }
 

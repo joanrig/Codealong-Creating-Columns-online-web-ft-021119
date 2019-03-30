@@ -80,6 +80,12 @@ img, video, audio {
 
 /*////// LAYOUT ////////*/
 
+* {
+  box-sizing: borde-box;
+  box-sizing: borde-box;
+  box-sizing: borde-box;
+}
+
 .wrapper {
   width: 1080px;
   margin: 0 auto;
